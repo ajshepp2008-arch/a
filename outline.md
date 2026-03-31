@@ -12,69 +12,36 @@ A brief account of the moment this book became necessary. What my father said. W
 
 ### Part One: The Event
 
-**Chapter 1 — The Event**
-My father's story. The trauma that preceded the fracture. What happened objectively, and what happened to him internally. The first moment something was wrong that couldn't be explained away.
-
-**Chapter 2 — Before and After**
-The person he was before, the person he became after, and the invisible line between them. How trauma rewrites biography. Why the person on the other side of a fracture sometimes doesn't recognize the life they're supposed to be living.
+**Chapter 1 — The Event** ([`chapters/01-the-event.md`](chapters/01-the-event.md))
+My father's story. The trauma that preceded the fracture. What happened objectively, and what happened to him internally. The first signs that something was wrong — objects not where they should be, conversations no one else remembered. The theory of transfer: shifting into a near-identical reality as an act of survival.
 
 ---
 
 ### Part Two: The Fracture Mechanism
 
-**Chapter 3 — What Is a Fracturing Point?**
-Defining the moment of fracture. Not all stress fractures reality — only events of sufficient force. What determines the threshold. Why some people fracture and others bend.
-
-**Chapter 4 — The Transfer**
-The theory of near-identical realities. How the mind manages unbearable information by shifting context. What "transfer" means — and what it doesn't mean. How this maps to existing psychological frameworks (dissociation, derealization, depersonalization) and how it goes beyond them.
-
-**Chapter 5 — The Seams**
-The places where the new reality doesn't quite match the old one. Missing objects. Unremembered conversations. Familiar spaces that feel alien. Why these discrepancies appear, and why they tend to cluster around the fracture event.
+**Chapter 2 — The Fracture Mechanism** ([`chapters/02-the-fracture-mechanism.md`](chapters/02-the-fracture-mechanism.md))
+Defining the fracturing point. What distinguishes a fracturing event from ordinary trauma: duration of threat, inescapability, violation of core identity, isolation. The theory of the transfer — how the self moves to a slightly different reality when the current one becomes structurally unsustainable. The seams: displaced objects, unshared conversations, spatial wrongness as the visible residue of transfer.
 
 ---
 
 ### Part Three: Reality After the Fracture
 
-**Chapter 6 — The Distorted World**
-Living in a reality that has been fractured. How the external world appears. Why certain things feel *wrong* in ways that are impossible to articulate. The experience of unreality — not as delusion, but as accurate perception of drift.
-
-**Chapter 7 — Memory as a Map That No Longer Matches the Terrain**
-How memory fails after fracture. The gap between what a person remembers and what others confirm. Why the fractured person's memory is not wrong — it is memory of a different place.
-
-**Chapter 8 — Other People's Reality**
-The loneliness of the fractured. How people around you continue to inhabit a coherent reality while yours has been torn open. The social cost of fracture. Being disbelieved by those you trust.
+**Chapter 3 — Reality Distortion** ([`chapters/03-reality-distortion.md`](chapters/03-reality-distortion.md))
+Living in a fractured reality. The problem of missing objects — and why it is not misremembering. The problem of unshared conversations — and the particular loneliness it creates. Spatial wrongness: familiar places that feel emptied of themselves. The accumulation effect: how each additional fracture compounds the drift. What distortion is not: how fracture differs from derealization, depersonalization, and psychosis, and why the difference matters.
 
 ---
 
 ### Part Four: Identity Dissolution
 
-**Chapter 9 — Who Are You Now?**
-The self as a story told across time. What happens to that story when the thread is cut. Identity as a casualty of fracture — not destroyed, but severed from its previous continuity.
-
-**Chapter 10 — The Accumulation of Fractures**
-What happens when fractures multiply. The drift that builds with each transfer. The person who has fractured many times and no longer knows which reality they started from. The relationship between accumulated trauma and profound disorientation.
-
-**Chapter 11 — The Edge of the Self**
-The limit cases. People who have fractured so severely that questions of identity, reality, and existence become genuinely unanswerable to them. Not madness — but the extreme far end of the fracture spectrum.
+**Chapter 4 — Identity Dissolution** ([`chapters/04-identity-dissolution.md`](chapters/04-identity-dissolution.md))
+The self as a story told across time — and what happens when the thread is cut. What identity dissolution feels like: the stranger in the mirror, the borrowed biography, the loss of preferences, the absence of a future. How accumulated fractures compound identity drift until questions of self become genuinely unanswerable. The social dimension: how others provide relational continuity even when the fractured person cannot feel continuity from inside. The question at the edge.
 
 ---
 
 ### Part Five: Finding Ground
 
-**Chapter 12 — The Work of Return**
-What the long process of recovery looks like. Not a return to the pre-fracture reality — that is gone. A construction of a new reality that is stable enough to live in. What that requires.
-
-**Chapter 13 — Anchors**
-The things that resist fracture — relationships, embodied practices, rituals of meaning. How to build anchors before fracture happens. How to find them after.
-
-**Chapter 14 — My Father, Now**
-Where he is today. What he has recovered. What remains distorted. The ongoing nature of the fractured life. What he has taught me about resilience at the edge of reality.
-
----
-
-### Epilogue: At the Fracturing Point
-
-A meditation on what it means to stand at the edge of what the self can hold. An address to the reader who has been there — or is there now.
+**Chapter 5 — Finding Ground** ([`chapters/05-finding-ground.md`](chapters/05-finding-ground.md))
+What recovery is not: the impossibility and inadvisability of return. The first step — naming what happened without pathologizing it. Anchors: the people, embodied practices, and rituals of meaning that resist drift. Building a new floor: curating a new story, tolerating the gaps, finding the edges. My father, now: what he has rebuilt and what remains. A direct address to the reader standing at a fracturing point of their own.
 
 ---
 

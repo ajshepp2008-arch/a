@@ -50,11 +50,13 @@ This creates a particular kind of loneliness. To remember something that no one 
 
 The third major manifestation of reality distortion is harder to describe because it is less concrete.
 
-Familiar places feel wrong. Not dramatically wrong — not transformed, not alien. Subtly, persistently, uncategorisably wrong. The kitchen is in the right place. The furniture is where it should be. And yet.
+Familiar places feel wrong. Not dramatically wrong — not transformed, not alien. Subtly, persistently, uncategorizably wrong. The kitchen is in the right place. The furniture is where it should be. And yet.
 
 The feeling is something like the feeling of walking into a stage set. Everything is in its correct position, but the sense that these objects constitute a *real* place — that they have weight and history and continuity — is diminished. The room looks like the room but does not feel like the room.
 
 Some people describe this as a loss of warmth. Places that used to feel inhabited — marked by their own history, their own smell, their own particular light — feel depopulated of meaning. They are correct in all their details but emptied of whatever it was that made them *theirs*.
+
+This wrongness is not categorizable in ordinary terms.
 
 This is not a psychological metaphor for grief. It is a perceptual reality. The place is subtly different from the place the person came from, and that difference — small enough to be invisible but large enough to be felt — registers as wrongness.
 
